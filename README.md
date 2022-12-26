@@ -16,7 +16,7 @@ https://woocommerce.github.io/woocommerce-rest-api-docs/
 - Import specific order ID or customer ID
 
 
-## How to use
+## How to use the migration
 
 ```
 python migration.py --help
